@@ -29,6 +29,18 @@ class Sort {
     }
     return A
   }
+  
+  static mergeSort (A) {
+
+  }
+  
+  static heapSort (A) {
+
+  }
+
+  static quickSort (A) {
+    
+  }
 }
 
 console.log(Sort.bubbleSort([5, 1, 4, 2, 8]))
