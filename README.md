@@ -25,7 +25,8 @@ yarn test
 ***
 
 ##### Array
-
+  * Cyclic Rotation
+  * Odd Occurence
 ##### Bit Manipulation
 
 ##### Linked List
@@ -40,7 +41,9 @@ yarn test
 * Trie
 
 ##### Matrix
-
+  * Minimal Meeting Point
+  * Zeros Matrix
+  * Spiral Matrix
 ##### Sorting
 
 ##### Searching
